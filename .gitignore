@@ -1,3 +1,8 @@
+#developer add
+exe/
+build/
+*.code-workspace
+
 # Prerequisites
 *.d
 
